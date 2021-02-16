@@ -509,9 +509,9 @@ body._lock {
   position: absolute;
   z-index: 6;
   width: 0;
-  height: 10px;
+  height: 2px;
   left: 50%;
-  bottom: -12px;
+  bottom: -8px;
   background-color: #A77D52;
   -webkit-transition: all ease 0.5s;
   -o-transition: all ease 0.5s;
@@ -577,8 +577,7 @@ body._lock {
 }
 
 .submenu-header__link:hover {
-  color: #191919;
-  text-shadow: 0 0 3px #34C700;
+  color: #34C700;
 }
 
 .scsh_adder_numc {
@@ -1382,7 +1381,7 @@ body._lock {
 }
 
 .item-news__link:hover {
-  color: #333333;
+  color: #34C700;
   background-position: right 10px center;
 }
 
